@@ -1,6 +1,6 @@
 {
   "name": "@kgryte/https-server",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "HTTPS server.",
   "author": {
     "name": "Athan Reines",
@@ -23,7 +23,7 @@
     "url": "git://github.com/kgryte/node-https-server.git"
   },
   "keywords": [
-  	"http",
+    "http",
     "https",
     "secure",
     "ssl",
